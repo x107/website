@@ -1,0 +1,13 @@
+
+    {
+        "id": "1",
+        "animaltype": "dog",
+        "animalname": "spotty",
+        "age": "3"
+    },
+    {
+        "id": "2",
+        "animaltype": "cat",
+        "animalname": "scratch",
+        "age": "4"
+    }

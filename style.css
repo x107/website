@@ -1,0 +1,19 @@
+body{
+  background: beige;
+}
+.side_bar{
+  width: 3em;
+  height: 30%;
+  float: left;
+}
+.content{
+  width: 10em;
+  height: 30%;
+  padding-right: 10em;
+  float: right;
+}
+.add_content{
+  clear: both;
+  width: 100%;
+  max-height: 3em;
+}
